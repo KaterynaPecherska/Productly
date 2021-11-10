@@ -1,7 +1,7 @@
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   max-width: 1340px;
   max-height: 78px;
   width: 100%;
@@ -250,6 +250,7 @@ footer{
   display: flex;
   justify-content: flex-end;
   line-height: 30px;
+  padding-right: 30px;
 
 }
 .about{
